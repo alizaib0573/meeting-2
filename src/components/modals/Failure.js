@@ -30,8 +30,8 @@ export default class Failure extends Component {
         return (
             <div ref={this.ui.el}  className="end-screen__modal end-screen__modal--failure">
                 <h1 ref={this.ui.header} className="heading">
-                    <span className='paragraph__line'style={{marginTop:40}} >Struggle with meetings</span>
-                    <span className='paragraph__line'>fuel your focus</span>
+                    <span className='paragraph__line'style={{marginTop:40}} >Struggle with meetings?</span>
+                    <span className='paragraph__line'>fuel your focus!</span>
                 </h1>
 
                 {/* <p ref={this.ui.body} className="heading">Give yourself a</p> */}
